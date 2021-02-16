@@ -1,0 +1,4 @@
+[INFO ] 2021-02-16 22:53:50.960 [main] InjectorImpl - Is instance! Binded as prototype
+[INFO ] 2021-02-16 22:53:50.963 [main] InjectorImpl - Is instance! Binded as prototype
+[INFO ] 2021-02-16 22:55:01.021 [main] InjectorImpl - Is instance! Binded as prototype
+[INFO ] 2021-02-16 22:55:01.026 [main] InjectorImpl - Is instance! Binded as prototype
